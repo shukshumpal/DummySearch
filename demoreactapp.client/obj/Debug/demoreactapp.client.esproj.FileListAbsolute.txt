@@ -1,0 +1,1 @@
+D:\WebApps\DemoReactApp\demoreactapp.client\obj\Debug\demoreactapp.client.esproj.CoreCompileInputs.cache
